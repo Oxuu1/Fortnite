@@ -1,2 +1,3 @@
-# Fortnite
-Code For the FortniteAPI 
+# FortniteAPI-V2 Source
+
+The source for FortniteAPI-V2
